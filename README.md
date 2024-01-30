@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sple-VH/Sple-VH/output/snake.svg" alt="Snake animation" />
+
 
 ###
